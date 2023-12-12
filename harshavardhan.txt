@@ -1,0 +1,156 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+debugger
+// var a="hello"
+// for(i=0; a[i]!=undefined;i++){
+//     var c=0
+//     c=c+1
+//     console.log(a[i]);
+// }
+
+// var a="harshavardhan"
+// console.log(a.length);
+// for(i=0;i=<a.length;i=i+2){
+//     console.log(a[i]);
+// }    
+
+// print even numbers
+
+// for(i=0;i<a.length;i++){
+//     if(i%2==0){
+
+//         console.log(a[i])
+//     }
+// }
+
+
+// print odd  numbers
+
+// var a="harshavardhan"
+// for(i=0;i<a.length;i++){
+//     if(i%2!==0){
+
+//         console.log(a[i])
+//     }
+// }
+
+
+// print  the total string
+
+// var a="harshavardhan"
+// for(i=0;i<=a.length;i++){
+
+// // if(i%2==0){ 
+//     console.log(a[i]);
+// }
+// // }   
+
+
+// add some strings
+
+// var a="harshavardhan"
+// var b=""
+// for(i=0;i<a.length;i++){
+//     if(a%2==0){
+//        b=b+a(
+
+//     }
+// }
+// console.log(b)
+
+
+// var a="hello"
+
+// console.log(a.length);
+// for(i=0;a[i]!=undefined;i++){
+//     var c=0
+//     c=c+1
+//     console.log(a[i]);
+
+// }
+// console.log(c);
+
+// adding two things
+
+// var a="harsha"
+// var b="vardhan"
+
+// console.log(a+b)
+
+// var a="77"
+// var b=88
+
+// console.log("77"-99)
+
+
+
+// var a="hhh"
+// var b=9
+// console.log(a+b)
+
+
+// var a="harsha"
+// var temp=""
+// for(i=0;i<=a.length;i++){
+//     if(i%2==0){
+//         temp=temp+a[i]
+//         console.log(a[i])
+//     }
+// }
+
+// // total name print  line by line
+// a="harsha"
+
+
+// for(i=0;i<a.length;i++){
+
+//     if(i%2==0){
+        
+//      }
+//       console.log(a[i])
+// }
+
+
+// print total name concat++
+
+
+// var a="harshavardhan"
+// var b=""
+// for(i=0;i<a.length;i++){
+
+// if(i%2==0){
+
+//     b=b+i}
+// }
+// console.log(a)
+
+
+
+
+// var a="harsha";
+
+// var b=a.length
+
+// // console.log(b)
+// // console.log(a.split("l"))
+// // console.log(a.slice(2,5))
+// // console.log(a.substring(4,-2))
+
+// console.log(a.substr(4,2))
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>

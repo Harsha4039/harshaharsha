@@ -1,0 +1,36 @@
+// let array=[10,10,40,60]
+// let l=array.shift()
+// console.log(l)
+// console.log(array)
+
+
+
+// let array=[20,30,40]
+// let l=array.pop()
+// console.log(l)
+// console.log(array)
+
+// var array=[1,2,3]
+// let k=array.push()
+// console.log(k)
+// console.log(array)
+
+// var a  ="helelo"
+// var b=a.split("e")
+// console.log(b)
+
+
+var a=[20,30,40,60]
+var b=a.slice(2,4)
+
+// var b=a.length
+// console.log(a.split("l"))
+// console.log(a.slice(2,5))
+// console.log(a.substring(4,-2))
+console.log(b)
+
+
+
+
+
+S

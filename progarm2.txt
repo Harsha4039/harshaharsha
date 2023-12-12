@@ -1,0 +1,49 @@
+
+
+
+// write a program that calculates nummber second per a day
+
+// var a=1
+// var b=24*60*60
+// console.log(b+"sec")
+
+
+
+// write a program prompts users to enter two integers xand y.the program then calculates and display x and y 
+
+// var a=3
+// var b=5
+// console.log(a**b)
+
+
+
+//  Write a program to calculate salary of an employee given his basic pay (to be entered by the user), HRA = 10 per cent of basic pay, TA = 5 per cent of basic pay. Define HRA and TA as constants and use them to calculate the salary of the employee.
+
+// a=70000
+//   b=10*70000/100
+//   c=5*70000/100
+// d=a-b-c
+// console.log(d)
+
+
+// write a program simple interest and compound interest
+
+
+// SI
+// var p=5000
+// var t=12
+// var r=24
+// console.log(s=p*t*r/100)
+
+// function si(p,t,r){
+// return s=p*t*r/100
+
+// }
+// console.log(si(5000,12,24))
+
+
+// CI
+// var p=5000
+// var r=24
+// var n=6
+// console.log(5000*(1+24/100)**6)
